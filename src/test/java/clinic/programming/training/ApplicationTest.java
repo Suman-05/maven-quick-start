@@ -6,11 +6,11 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class ApplicationTest {
-    private Application app;
+    //private Application app;
     
     @Before
     public void setup() {
-        app = new Application();
+       // app = new Application();
     }
     
     
